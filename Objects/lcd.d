@@ -1,0 +1,15 @@
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\LCD.c
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h
+.\objects\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx\Include\SPI.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\LCD.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Font5x7.h
+.\objects\lcd.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Font8x16.h

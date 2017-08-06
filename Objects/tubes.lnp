@@ -1,0 +1,19 @@
+--cpu Cortex-M0
+".\objects\core_cm0.o"
+".\objects\spi.o"
+".\objects\sys.o"
+".\objects\seven_segment.o"
+".\objects\gpio.o"
+".\objects\lcd.o"
+".\objects\scankey.o"
+".\objects\eeprom_24lc64.o"
+".\objects\i2c.o"
+".\objects\main.o"
+".\objects\system_nuc1xx.o"
+".\objects\startup_nuc1xx.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib"
+".\objects\rtx_conf_cm_1.o"
+--library_type=microlib --strict --scatter ".\Objects\tubes.sct"
+--map --first='startup_NUC1xx.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\tubes.map" -o .\Objects\tubes.axf

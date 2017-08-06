@@ -1,0 +1,9 @@
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\NUC1xx\Source\I2C.c
+.\objects\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\NUC1xx\Include\I2C.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h
+.\objects\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\objects\i2c.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h

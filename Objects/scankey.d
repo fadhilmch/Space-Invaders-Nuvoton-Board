@@ -1,0 +1,10 @@
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\Scankey.c
+.\objects\scankey.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h
+.\objects\scankey.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h
+.\objects\scankey.o: ..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Scankey.h

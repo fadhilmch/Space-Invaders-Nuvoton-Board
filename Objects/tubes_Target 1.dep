@@ -1,0 +1,120 @@
+Dependencies for Project 'tubes', Target 'Target 1': (DO NOT MODIFY !)
+F (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.c)(0x4F619694)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\core_cm0.o --omf_browse .\objects\core_cm0.crf --depend .\objects\core_cm0.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+F (..\NUC140BSP_EDU\Library\NUC1xx\Source\SPI.c)(0x530C4F69)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SPI.h)(0x5301DE4E)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+F (..\NUC140BSP_EDU\Library\NUC1xx\Source\SYS.c)(0x538E7B9F)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+F (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\Seven_Segment.c)(0x53C378E0)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\seven_segment.o --omf_browse .\objects\seven_segment.crf --depend .\objects\seven_segment.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Seven_Segment.h)(0x4F6196CA)
+F (..\NUC140BSP_EDU\Library\NUC1xx\Source\GPIO.c)(0x530C4DCE)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+F (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\LCD.c)(0x53D54B47)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB3988)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SPI.h)(0x5301DE4E)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\LCD.h)(0x53D533ED)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Font5x7.h)(0x51AB52BC)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Font8x16.h)(0x53196B5B)
+F (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\Scankey.c)(0x530C4EC7)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\scankey.o --omf_browse .\objects\scankey.crf --depend .\objects\scankey.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Scankey.h)(0x530AAF50)
+F (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source\EEPROM_24LC64.c)(0x53A7D52B)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\eeprom_24lc64.o --omf_browse .\objects\eeprom_24lc64.crf --depend .\objects\eeprom_24lc64.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\I2C.h)(0x53A439E2)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\EEPROM_24LC64.h)(0x4F6196CA)
+F (..\NUC140BSP_EDU\Library\NUC1xx\Source\I2C.c)(0x53A439E2)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\I2C.h)(0x53A439E2)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+F (.\main.c)(0x567F53EB)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB3986)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB3988)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DB3988)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\SYS.h)(0x53883DB1)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\GPIO.h)(0x51FA7D72)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\LCD.h)(0x53D533ED)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x562755EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB398E)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Seven_Segment.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\Scankey.h)(0x530AAF50)
+I (..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include\EEPROM_24LC64.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\NUC1xx\Include\I2C.h)(0x53A439E2)
+F (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source\system_NUC1xx.c)(0x4F619694)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\system_nuc1xx.o --omf_browse .\objects\system_nuc1xx.crf --depend .\objects\system_nuc1xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h)(0x5301BF59)
+I (..\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h)(0x51060D70)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h)(0x4F619694)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h)(0x4F6196CA)
+I (..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h)(0x4F6196CA)
+F (.\startup_NUC1xx.s)(0x55AC8954)(--cpu Cortex-M0 --pd "__RTX SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1"--list .\listings\startup_nuc1xx.lst --xref -o .\objects\startup_nuc1xx.o --depend .\objects\startup_nuc1xx.d)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib)(0x56246B16)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x556D3EF4)(-c --cpu Cortex-M0 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\NUC140BSP_EDU\Library\CMSIS\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx\Include -I..\NUC140BSP_EDU\Library\NUC1xx\Source -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include -I..\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Include -I..\NUC140BSP_EDU\Library\NUC1xx-LB_002\Source -I..\Tubes -IC:\Keil_v5\ARM\RL\RTX\Config-I "D:\Tingkat 4!\Fadhil Mochammad\Sistem Embedded\Tubes\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Nuvoton\NuMicro_DFP\1.0.5\Device\NUC100\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -D_RTE_-o .\objects\rtx_conf_cm_1.o --omf_browse .\objects\rtx_conf_cm_1.crf --depend .\objects\rtx_conf_cm_1.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x562755EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB3990)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB398E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x556D3EF4)
